@@ -27,4 +27,4 @@
 ##  Notes
 - All traces are self-collected using Wireshark.  
 - Analysis is based on packet inspection and protocol behavior.  
-- Prompts folder included for transparency and how we get help from them  (fair use of AI assistance).
+
